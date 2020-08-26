@@ -49,10 +49,5 @@ class CashRegister
             @items.pop                  #[[2.99, 3], [],[]]
             @total -= last_trans_array[0]
         end
-
     end
-
 end
-
-
-
